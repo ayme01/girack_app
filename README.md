@@ -1,4 +1,4 @@
-# girack_app
+# girak_app
 
 A new Flutter project.
 

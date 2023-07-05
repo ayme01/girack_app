@@ -1,4 +1,4 @@
-package com.example.girack_app
+package com.example.girak_app
 
 import io.flutter.embedding.android.FlutterActivity
 
